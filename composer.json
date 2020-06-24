@@ -1,0 +1,14 @@
+{
+    "name": "wuweifeng/qx_sw",
+    "description": "千熙专用",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wuweifeng",
+            "email": "405412460@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
